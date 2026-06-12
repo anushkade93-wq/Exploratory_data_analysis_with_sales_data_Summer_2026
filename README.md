@@ -9,7 +9,7 @@ the dataset used in this project is sales.csv (uploaded)
 - **Pandas** – data loading, grouping, aggregation, date handling
 - **NumPy** – numerical operations (`bincount`, `argmax`)
 - **Scikit-learn** – dataset loading, K-Means clustering, F1 score evaluation
-# KEY RESULTS OBTAINED
+# KEY RESULTS OBTAINED:
 - Identified top 5 and bottom 5 revenue-generating stores and their department-wise performance
 - Found most stable vs. most volatile departments using coefficient of variation
 - Quantified holiday impact on overall and department-wise sales
